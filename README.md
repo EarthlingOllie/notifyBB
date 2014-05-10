@@ -1,4 +1,4 @@
 NotifyBB
 ========
 
-A simple notification written in javascript.
+A simple notification system written in javascript.
